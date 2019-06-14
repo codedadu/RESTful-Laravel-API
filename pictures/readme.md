@@ -11,7 +11,7 @@ Authorization : Bearer [api_token]
 
 How to access api_token Users that have been allocated in the database, First you must be access the MySQL Server database Either by using a Web or Terminal form as follows
 
-<img src="https://raw.githubusercontent.com/codedadu/RESTful-Laravel-API/master/pictures/Get%20Access%20Token%20User%20in%20MySQL%20Database.PNG/>
+<img src="https://github.com/codedadu/RESTful-Laravel-API/blob/master/pictures/Get%20Access%20Token%20User%20in%20MySQL%20Database.PNG">
 
 Then copy the api_token user you want to access in Postman as follows
 
